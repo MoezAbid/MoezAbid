@@ -10,11 +10,11 @@
 
 <h2 align="center"> 
     <img align="center" src="./assets/wave.gif" width="20"> 
-    Hey, I am Moez Abid : Data Scientist & Software Engineering Graduate 
+    Hey, I am Moez Abid : Data Scientist / AI Engineer
 </h2>
 
 <ul>
-<li>I'm currently interested and working on Machine and Deep Learning.</li>
+<li>I'm currently interested and working on Machine and Deep Learning solutions to make the world a smarter place.</li>
 <li>Email : <a href="#">moez.abid.pro@gmail.com</a></li>
 <li><a href="https://moezabid-io.vercel.app/">🌐 My website.</a></li>
 </ul>
