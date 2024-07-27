@@ -61,15 +61,14 @@ You can connect with me here :
 </p>
 </br>
 <div align="center">
-<img style="width:250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoezAbid&amp;&amp;layout=compactcount_private=true&amp;theme=merko" alt="Top Langs">
-</div> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoezAbid&amp;&amp;theme=merko&amp;layout=compact&amp;count_private=true" alt="Top Langs> 
+</div>
 
 <br>
-<h1 align="left">📈 Github Stats<h1>
 <p align="center">
 
 <div>
-<h5 align="left">My general stats<h5>
+<h4 align="left">📈 My Github general stats<h4>
 <div align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=merko&Ring=DD1167&Title=5EBD18">
 <img alt="MoezAbid's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MoezAbid?cardType=github&theme=merko&Ring=DD1167&Title=5EBD18" w/></a>
@@ -77,7 +76,7 @@ You can connect with me here :
 </div>
 
 <div>
-<h5 align="left">My contribution streak<h5>
+<h4 align="left">My contribution streak<h4>
 <div align="center">
 <a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=MoezAbid&amp;theme=merko&amp;ring=DD5E16&amp;fire=DD5E16&amp;currStreakNum=DD5E16" alt="GitHub Streak" ></a>
